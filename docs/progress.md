@@ -19,11 +19,11 @@
 
 ## Persoonlijke Workshop Informatie
 
-**Deelnemer Naam:** `[Jouw Volledige Naam]`  
-**Workshop Datum:** `[Voeg vandaag's datum toe]`  
+**Deelnemer Naam:** `Nel Greco`  
+**Workshop Datum:** `27/11/2025`  
 **Doel:** `[Wat wil je bereiken? bijv., "Mijn eerste CI/CD pipeline bouwen"]`  
-**GitHub Gebruikersnaam:** `[jouw-github-gebruikersnaam]`  
-**Verwachte Site URL:** `https://[jouw-gebruikersnaam].github.io/devops-workshop-vitepress/`
+**GitHub Gebruikersnaam:** `greconel`  
+**Verwachte Site URL:** `https://greconel.github.io/devops-workshop-vitepress/`
 
 ---
 
